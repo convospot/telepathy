@@ -1,5 +1,5 @@
-A realtime data platform send message, image, audio, and video
 
-  * Easy to use, client-side code only
-  * Use p2p data channel when possible, saving cost and keep privacy
-  * Reiable and secure
+An full stack reactive platform:
+1. Reactive API 
+2. Client layour to consume reactive API
+3. Backend MongoDB and AKKA Actors
