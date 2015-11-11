@@ -10,6 +10,8 @@ Telephathy is a full stack reactive platform for achieving following goals:
 4. Abstract spec to reactive backend (e.g., RxScala, AKKA)
 
 ## Example: a stock quote API
+
+```
 {
 	"meta": {
 		"baseUri": "https://localhost:8002",
@@ -24,6 +26,7 @@ Telephathy is a full stack reactive platform for achieving following goals:
 		"@notify":true
 	}]
 }
+```
 
 ## Reference
 
