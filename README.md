@@ -11,7 +11,7 @@ Telephathy is a full stack reactive platform for achieving following goals:
 
 ## Example: a stock quote API
 
-```
+```json
 {
 	"meta": {
 		"baseUri": "https://localhost:8002",
