@@ -3,11 +3,12 @@
 ## Goal
 Telephathy is a reactive RESTful data access framework for achieving following goals:
 
+1. Serve real-time data 
 1. Make front-end development easier (consume linked data automatically)
-2. Performance (progressive loading for API)
-2. Reactive API (more than observer the whole object, reactive for each linked child)
-3. Client layour to consume reactive API
-4. Abstract spec to reactive backend (e.g., RxScala, AKKA)
+1. Performance (progressive loading for API)
+1. Reactive API (more than observer the whole object, reactive for each linked child)
+1. Client layour to consume reactive API
+1. Abstract spec to reactive backend (e.g., RxScala, AKKA)
 
 ## Example: a stock quote API
 
