@@ -1,5 +1,7 @@
 [![Book session on Codementor](https://cdn.codementor.io/badges/book_session_github.svg)](https://www.codementor.io/homerquan?utm_source=github&utm_medium=button&utm_term=homerquan&utm_campaign=github)
 
+![telepathy logo](http://s401765523.onlinehome.us/res/img/telepathy-text.png)
+
 ## Goal
 Telephathy is a reactive RESTful data access framework for achieving following goals:
 
