@@ -36,3 +36,8 @@ Telephathy is a reactive RESTful data access framework for achieving following g
 
 * Dependances in client js object: ProactJS http://proactjs.github.io/
 * ReactiveX http://reactivex.io/
+
+## Similar platform
+
+* Netflix falcor http://netflix.github.io/falcor/
+* Facebook graphql https://github.com/graphql/graphql-js
