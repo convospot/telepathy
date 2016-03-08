@@ -49,3 +49,4 @@ Telephathy is a reactive RESTful data access framework for achieving following g
 
 * Netflix falcor http://netflix.github.io/falcor/
 * Facebook graphql https://github.com/graphql/graphql-js
+* Client query http://www.persvr.org/rql/, https://docs.strongloop.com/display/public/LB/Querying+data
