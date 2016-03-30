@@ -14,6 +14,7 @@ Telephathy is a reactive RESTful data access framework for achieving following g
 1. Reactive API (more than observer the whole object, reactive for each linked child)
 1. Client layour to consume reactive API
 1. Abstract spec to reactive backend (e.g., RxScala, AKKA)
+1. Specify where to process the data (sensor, network or server) 
 
 ## Usage
 
