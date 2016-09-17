@@ -26,6 +26,7 @@ Telephathy is a reactive RESTful data access framework for achieving following g
 {
 	"meta": {
 		"baseUri": "https://localhost:8002",
+		"prefix": "v1",
 		"offset": 0,
 		"limit": 10,
 		"total": 30,
